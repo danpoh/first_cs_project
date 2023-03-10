@@ -42,3 +42,5 @@ Console.WriteLine("A sbyte number:" + sbytenumber);
 Console.WriteLine("A single character: " + charnumber);
 Console.WriteLine("A string: " + stringnumber);
 Console.WriteLine("True or false?: " + boolnumber);
+
+Car accident
