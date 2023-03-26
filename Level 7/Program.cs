@@ -9,3 +9,4 @@ Console.WriteLine($"({targetRow}, {targetColumn + 1})");
 Console.WriteLine($"({targetRow}, {targetColumn - 1})");
 Console.WriteLine($"({targetRow - 1}, {targetColumn})");
 Console.Beep();
+Console.Beep();
